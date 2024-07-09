@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+}
+nav{
+    background-color: aqua;
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+    margin-top: -15px;
+
+}
